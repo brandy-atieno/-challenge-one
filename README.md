@@ -1,2 +1,2 @@
-#.Example Repository
-This is Kenya.Karibu sana 
+#Example Repository
+This is Kenya.Ezekiel Kemboi's motherland.
